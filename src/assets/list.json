@@ -1,0 +1,32 @@
+[
+    {
+        "title": "The four horsemen",
+        "artist": "Metallica",
+        "genre": "Heavy Metal",
+        "album": "Ride the Lightning"
+    },
+    {
+        "title": "She Wolf",
+        "artist": "Megadeth",
+        "genre": "Thrash Metal",
+        "album": "Cryptic Writings"
+    },
+    {
+        "title": "Fear of the Dark",
+        "artist": "Iron Maiden",
+        "genre": "Heavy Metal",
+        "album": "Fear of the Dark"
+    },
+    {
+        "title": "Walk with me in Hell",
+        "artist": "Lamb of God",
+        "genre": "Thrash Metal",
+        "album": "Scarament"
+    },
+    {
+        "title": "Outside",
+        "artist": "Staind",
+        "genre": "Alternative Metal",
+        "album": "Break the cycle"
+    }
+]
